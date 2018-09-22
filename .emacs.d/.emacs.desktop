@@ -1,0 +1,355 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Sep 22 03:14:30 2018
+;; Desktop file format version 208
+;; Emacs version 27.0.50
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23461 38774 97919 662000) (desktop . "208") "miguel@precision-5520" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (font-parameter . "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#e1e1e0") (background-color . "#2d3743") (mouse-color . "OrangeRed") (border-color . "gold") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground . "dark turquoise") (scroll-bar-background . "gray20") (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 10) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen . maximized) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#415160") (sticky) (environment) (last-focus-update) (modeline . t) (unsplittable) (frameset--id . "3AE0-6750-8BC0-409D") (frameset--mini t . t) (display . ":0") (icon-name) (explicit-name) (fullscreen-restore . maximized) (user-size . t) (height . 49) (width . 182) (left . 65) (top . 24)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 100) (min-pixel-height-ignore . 40) (min-pixel-width-ignore . 70) (min-pixel-height-safe . 20) (min-pixel-width-safe . 20)) leaf (pixel-width . 1855) (pixel-height . 965) (total-width . 185) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 1 t nil 0 t) (vscroll . 0) (dedicated) (point . 19) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("emojify" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("ecto" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("appli" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("view" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("web-mode" 0 8 (isearch-regexp-function nil isearch-case-fold-search t)) #("photo" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("elixi" 0 5 (isearch-case-fold-search t isearch-regexp-function nil)) #("bongo" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("csv" 0 3 (isearch-case-fold-search t isearch-regexp-function nil)) #(".x" 0 2 (isearch-case-fold-search t isearch-regexp-function nil)) #("elix" 0 4 (isearch-case-fold-search t isearch-regexp-function nil)) #("elixir" 0 6 (isearch-case-fold-search t isearch-regexp-function nil)) #("undo" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("2017" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("EESQL" 0 5 (isearch-case-fold-search nil isearch-regexp-function nil)) #("$2" 0 2 (isearch-case-fold-search t isearch-regexp-function nil))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/github/dot-emacs/" "/home/miguel/github/MiguelERuiz.github.io/index.html" "/home/miguel/.emacs" "~/github/MiguelERuiz.github.io/" "/home/miguel/github/curriculum/gitavatar.jpeg" "/home/miguel/github/MiguelERuiz.github.io/style.css" "/home/miguel/github/MiguelERuiz.github.io/index.html" "/home/miguel/github/healthcard/web/static/css/app.css" "/home/miguel/github/myApp/src/app/app.scss" "/home/miguel/github/myApp/src/app/main.ts" "/home/miguel/github/curriculum/curriculum_vitae.tex" "/home/miguel/Documentos/anuncio-libros.tex" "/home/miguel/github/healthcard/lib/healthcard/endpoint.ex" "/home/miguel/github/rumbl/web/controllers/user_controller.ex" "/home/miguel/github/rumbl/web/templates/layout/app.html.eex" "/home/miguel/github/healthcard/web/templates/layout/app.html.eex" "/home/miguel/github/healthcard/web/templates/session/new.html.eex" "~/github/healthcard/web/templates/session" "/home/miguel/github/healthcard/web/views/session_view.ex" "~/github/healthcard/web/" "/home/miguel/github/healthcard/deps/bcrypt_elixir/lib/bcrypt/base.ex" "/home/miguel/github/healthcard/deps/bcrypt_elixir/lib/bcrypt.ex" "/home/miguel/github/healthcard/deps/comeonin/lib/comeonin.ex" "/home/miguel/github/healthcard/deps/comeonin/lib/comeonin/base.ex" "/home/miguel/github/healthcard/web/controllers/session_controller.ex" "~/github/healthcard/web/" "/home/miguel/github/healthcard/deps/plug/lib/plug/conn.ex" "/home/miguel/github/healthcard/web/controllers/auth.ex" "/home/miguel/github/healthcard/deps/plug/lib/plug.ex" "/home/miguel/github/healthcard/deps/plug/LICENSE" "/home/miguel/github/healthcard/lib/healthcard/endpoint.ex" "/home/miguel/github/healthcard/mix.exs" "/home/miguel/github/healthcard/deps/bcrypt_elixir/lib/bcrypt.ex" "/home/miguel/github/healthcard/deps/bcrypt_elixir/LICENSE" "/home/miguel/github/healthcard/mix.exs" "/home/miguel/github/healthcard/web/templates/crew/new.html.eex" "/home/miguel/github/healthcard/lib/healthcard.ex" "/home/miguel/github/healthcard/priv/repo/migrations/20180905112828_create_crew.exs" "/home/miguel/github/healthcard/web/web.ex" "/home/miguel/github/healthcard/web/models/crew.ex" "/home/miguel/github/healthcard/config/dev.exs" "/home/miguel/github/healthcard/lib/dev.exs" "/home/miguel/github/healthcard/lib/healthcard.ex" "/home/miguel/github/healthcard/lib/healthcard/repo.ex" "/home/miguel/github/healthcard/web/templates/layout/app.html.eex" "/home/miguel/github/healthcard/web/views/error_view.ex" "/home/miguel/github/healthcard/web/templates/crew/crew.html.eex" "/home/miguel/github/healthcard/web/templates/crew/show.html.eex" "/home/miguel/github/healthcard/web/web.ex" "/home/miguel/github/healthcard/web/templates/crew/index.html.eex" "~/github/healthcard/web/templates/crew" "/home/miguel/github/healthcard/web/views/crew_view.ex" "/home/miguel/github/healthcard/web/controllers/crew_controller.ex" "/home/miguel/github/healthcard/web/router.ex" "/home/miguel/github/healthcard/lib/healthcard.ex" "/home/miguel/github/healthcard/lib/healthcard/repo.ex" "/home/miguel/github/healthcard/web/models/user.ex" "/home/miguel/github/healthcard/web/models/crew.ex" "/home/miguel/github/healthcard/web/templates/layout/app.html.eex" "/home/miguel/github/healthcard/web/templates/page/index.html.eex" "/home/miguel/github/rumbl/web/router.ex" "/home/miguel/github/rumbl/web/web.ex" "/home/miguel/github/rumbl/web/templates/user/index.html.eex" "~/github/rumbl/web/templates/user" "/home/miguel/github/rumbl/lib/rumbl.ex" "/home/miguel/github/rumbl/web/views/user_view.ex" "/home/miguel/github/rumbl/web/controllers/user_controller.ex" "/home/miguel/github/rumbl/web/templates/page/index.html.eex" "/home/miguel/github/rumbl/lib/rumbl.ex" "/home/miguel/github/rumbl/lib/rumbl/repo.ex" "/home/miguel/github/rumbl/web/templates/page/index.html.eex" "/home/miguel/github/rumbl/web/models/user.ex" "/home/miguel/Elixir/phoenix/rumbl/web/models/user.ex" "/home/miguel/.emacs" "/home/miguel/Elixir/phoenix/rumbl/web/templates/page/index.html.eex" "/home/miguel/Elixir/phoenix/hello/web/router.ex" "/home/miguel/Elixir/phoenix/hello/lib/hello/endpoint.ex" "/home/miguel/Elixir/phoenix/hello/config/config.exs" "/home/miguel/Elixir/phoenix/hello/lib/hello.ex" "/home/miguel/Elixir/phoenix/hello/web/templates/layout/app.html.eex" "/home/miguel/Elixir/phoenix/hello/web/views/layout_view.ex" "/home/miguel/Elixir/phoenix/hello/web/templates/hello/world.html.eex" "~/Elixir/phoenix/hello/web/templates/hello" "/home/miguel/Elixir/phoenix/hello/web/views/hello_view.ex" "/home/miguel/Elixir/phoenix/hello/web/controllers/hello_controller.ex" "/home/miguel/Elixir/phoenix/hello/web/router.ex" "/home/miguel/Elixir/phoenix/hello/config/dev.exs" "/home/miguel/Elixir/phoenix/hello/mix.exs" "/home/miguel/.htaccess" "/home/miguel/Elixir/phoenix/hello/config/dev.exs" "/home/miguel/Elixir/numbers.ex" "~/Escritorio/" "~/github/curriculum/recommendation-letter-miguel_emilio.tex" "/home/miguel/github/curriculum/recommendation-letter.tex" "/home/miguel/Descargas/recommendation-letter-sergio.tex" "/home/miguel/Descargas/carta-de-recomendacion-daniel.tex" "/home/miguel/github/curriculum/curriculum_vitae.tex" "/home/miguel/github/curriculum/.gitignore" "/home/miguel/github/curriculum/template.tex"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/miguel/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(eldoc-mode linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode)
+  19
+  '(2574 nil)
+  nil
+  nil
+  '((buffer-display-time 23461 38675 389552 956000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2633 2574))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/MiguelERuiz.github.io/index.html"
+  "index.html"
+  'mhtml-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode auto-revert-mode magit-file-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23461 38131 796497 342000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/MiguelERuiz.github.io/style.css"
+  "style.css"
+  'css-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode auto-revert-mode magit-file-mode)
+  40
+  '(93 nil)
+  nil
+  nil
+  '((buffer-display-time 23461 37950 107134 412000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (93 93 57 1 67 67 20 39 67 93 93 71 40))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/layout/app.html.eex"
+  "app.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  1063
+  '(326 nil)
+  nil
+  nil
+  '((buffer-display-time 23461 24494 365661 831000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (403 403 326 326 326 1024 1019 1091 1068 1055 1091 1068 1091 1477 1359 359))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/crew/show.html.eex"
+  "show.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  72
+  '(56 nil)
+  nil
+  nil
+  '((buffer-display-time 23461 24213 103596 906000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (39 50 33 50 95 95 68))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/controllers/session_controller.ex"
+  "session_controller.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  742
+  '(578 nil)
+  nil
+  nil
+  '((buffer-display-time 23460 12579 886493 718000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (624 618 747 747 624 747))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/controllers/auth.ex"
+  "auth.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  970
+  '(982 nil)
+  nil
+  nil
+  '((buffer-display-time 23460 12448 176406 166000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (336 982 982 496 496 497 783))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/controllers/crew_controller.ex"
+  "crew_controller.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  713
+  '(124 nil)
+  nil
+  nil
+  '((buffer-display-time 23460 12386 874598 488000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (74 966 1 125 74 106 74 82 442 76 318 997 895 1229 531 713))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/lib/healthcard/endpoint.ex"
+  "endpoint.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  661
+  '(1210 nil)
+  nil
+  nil
+  '((buffer-display-time 23460 12069 686114 787000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1210 1210 661))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/session/new.html.eex"
+  "new.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  268
+  '(81 nil)
+  nil
+  nil
+  '((buffer-display-time 23460 10470 318008 170000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (415 260))))
+
+(desktop-create-buffer 208
+  nil
+  "session"
+  'dired-mode
+  '(linum-mode persistent-scratch-autosave-mode company-mode)
+  204
+  '(nil nil)
+  t
+  '("/home/miguel/github/healthcard/web/templates/session/")
+  '((buffer-display-time 23460 9189 577107 188000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "templates"
+  'dired-mode
+  '(linum-mode persistent-scratch-autosave-mode company-mode)
+  244
+  '(nil nil)
+  t
+  '("/home/miguel/github/healthcard/web/templates/")
+  '((buffer-display-time 23460 9172 946633 888000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/views/session_view.ex"
+  "session_view.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  64
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23460 9169 513099 229000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/router.ex"
+  "router.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  727
+  '(228 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 62350 707295 417000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (422 422 458 329 336 271 475 275 534 727 727))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/lib/healthcard.ex"
+  "healthcard.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  1
+  '(1059 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 57078 874892 477000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (324 330 788 841))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/mix.exs"
+  "mix.exs"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  710
+  '(1242 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 36655 562715 974000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (840 710 710))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/models/crew.ex"
+  "crew.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  776
+  '(841 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 30464 796046 841000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (59 59 236 840 841 841 841 226 841 234 841 210 841 234 265 836))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/crew/index.html.eex"
+  "index.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  385
+  '(380 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 23128 828604 701000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (287 290 290 290 290 290 290 290 290 167 179 243 166 385 385 385))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/crew/new.html.eex"
+  "new.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  448
+  '(719 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 21182 927430 2000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (768 768 758 262 540 768 768 768 52 768 719 286 400 363 286 448))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/templates/crew/crew.html.eex"
+  "crew.html.eex"
+  'web-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  51
+  '(51 nil)
+  nil
+  nil
+  '((buffer-display-time 23459 13069 974900 741000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 51))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/priv/repo/migrations/20180905112828_create_crew.exs"
+  "20180905112828_create_crew.exs"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  276
+  '(90 nil)
+  nil
+  nil
+  '((buffer-display-time 23458 44995 613704 355000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (235 272))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/web.ex"
+  "web.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  681
+  '(1670 nil)
+  nil
+  nil
+  '((buffer-display-time 23458 6552 495130 741000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (457 507 507 456 455 553 651 681))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/config/dev.exs"
+  "dev.exs"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  812
+  '(325 nil)
+  nil
+  nil
+  '((buffer-display-time 23458 5514 254951 234000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (812))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/lib/healthcard/repo.ex"
+  "repo.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  67
+  '(30 nil)
+  nil
+  nil
+  '((buffer-display-time 23458 4887 287999 432000) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (32 32 72 32 32 32 32 71 32 32 32 71 72))))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/healthcard/web/views/error_view.ex"
+  "error_view.ex"
+  'elixir-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  381
+  '(381 nil)
+  nil
+  nil
+  '((buffer-display-time 23458 2584 809276 540000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/miguel/github/curriculum/gitavatar.jpeg"
+  "gitavatar.jpeg"
+  'image-mode
+  '(linum-mode undo-tree-mode persistent-scratch-autosave-mode company-mode magit-file-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23461 34683 775503 728000) (buffer-file-coding-system . no-conversion) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "MiguelERuiz.github.io"
+  'dired-mode
+  '(linum-mode persistent-scratch-autosave-mode company-mode)
+  244
+  '(nil nil)
+  t
+  '("/home/miguel/github/MiguelERuiz.github.io/")
+  '((buffer-display-time 23461 37531 124833 479000))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "curriculum"
+  'dired-mode
+  '(linum-mode persistent-scratch-autosave-mode company-mode)
+  790
+  '(nil nil)
+  t
+  '("/home/miguel/github/curriculum/")
+  '((buffer-display-time 23461 38043 840110 49000))
+  '((mark-ring nil)))
+

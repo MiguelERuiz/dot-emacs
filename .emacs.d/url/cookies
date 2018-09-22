@@ -1,0 +1,37 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".twitter.com"
+  [url-cookie "personalization_id" "v1_MY5y0ec6jiKw3vNSmthLZg==" "Sat, 01 Aug 2020 19:36:53 GMT" "/" ".twitter.com" nil]
+  [url-cookie "guest_id" "v1%3A153323861349016485" "Sat, 01 Aug 2020 19:36:53 GMT" "/" ".twitter.com" nil]
+  [url-cookie "dnt" "1" "Sun, 30 Jul 2028 19:37:29 GMT" "/" ".twitter.com" nil]
+  [url-cookie "ads_prefs" "HBISAAA=" "Sun, 30 Jul 2028 19:37:29 GMT" "/" ".twitter.com" nil]
+  [url-cookie "remember_checked_on" "1" "Sun, 30 Jul 2028 19:37:29 GMT" "/" ".twitter.com" nil])
+ ("spotify.com"
+  [url-cookie "spot" "%7B%22t%22%3A%22%22%2C%22m%22%3A%22es%22%2C%22p%22%3A%22%22%7D" "sáb mar 26 19:01:48 2022 GMT" "/" "spotify.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".spotify.com"
+  [url-cookie "sp_t" "c619f664af804628744e5460be52aa4e" "mié sep 26 19:00:01 2018 GMT" "/" ".spotify.com" t]
+  [url-cookie "sp_ab" "%7B%7D" "lun ago 27 19:01:10 2018 GMT" "/" ".spotify.com" t])
+ (".twitter.com"
+  [url-cookie "ct0" "eb24eccda5a9993cc7fe2007d77d7797" "Fri, 03 Aug 2018 01:36:54 GMT" "/" ".twitter.com" t]
+  [url-cookie "_mobile_sess" "BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7ADoQX2NzcmZfdG9rZW4iLTZmZDUxMzFhOWE0MjEzZjFkYzNlZGJhOGU5MzRkMGY4YjViNmY5Y2Y%3D--57e603d217c6a09f6c5faf3d359e2cb8dd87aade" "Mon, 01 Oct 2018 19:37:51 GMT" "/" ".twitter.com" t]
+  [url-cookie "m5" "off" "Fri, 03 Aug 2018 19:37:08 GMT" "/" ".twitter.com" t]
+  [url-cookie "d" "32" "Fri, 02 Aug 2019 19:37:08 GMT" "/" ".twitter.com" t]
+  [url-cookie "mobile_metrics_token" "153323862829546371" "Sat, 01 Aug 2020 19:37:08 GMT" "/" ".twitter.com" t]
+  [url-cookie "kdt" "uXstcVaar8ELhxDuGwuDJQMwLGzUumqH4Z2Jqfwt" "Fri, 31 Jan 2020 19:37:29 GMT" "/" ".twitter.com" t]
+  [url-cookie "twid" "u=378035264" "Sun, 30 Jul 2028 19:37:29 GMT" "/" ".twitter.com" t]
+  [url-cookie "u" "4008c2ed3e45e2d20cd3e0df211d4437" "Fri, 02 Aug 2019 19:37:29 GMT" "/" ".twitter.com" t]
+  [url-cookie "auth_token" "04e3a86c00168f1920efaeac3bd2927393398ff8" "Sun, 30 Jul 2028 19:37:29 GMT" "/" ".twitter.com" t])
+ ("mobile.twitter.com"
+  [url-cookie "_mb_tk" "6fd5131a9a4213f1dc3edba8e934d0f8b5b6f9cf" "Sat, 04 Aug 2018 19:37:08 GMT" "/" "mobile.twitter.com" t])
+ ("support.spotify.com"
+  [url-cookie "spexp" "eyJkYXRhIjoiZXd0NzVITVwvdnBpQjY5R2N5b0JRcTBpUVpiTWZvZnA5NzA5RXljZG1tRk1yaFlmU0M1MHIzSkJDYW1qSm0zYm5qck1QeVBIaWgyQllwNWZST0tMbDdlcWdmS2lwV2x0TDlvanRtV0toRGphaFE5WHJUXC9XTWpNS0FBNjJRN1NHR1dBUitYXC9YVWV2cWNlQllcL0k1a29GbXdUS29VdTR3ZXBDTEMwZytcL3NzbzI5cml2WlAwcWJJTTNWcGIxQk5UMkkrR3dcL0pEVjlUUnF1XC85VGNZMnlLNFdwTElpTlVNelJkYXErSXhmU0x1RmtxYmx3UkdnYWFLcVlZbmM5UnRTK3F1MjVKeWtUKzZXeHNrRU43S1hOWTEwTWFoNVFNVUFvNTdHd2FGcTQ9IiwiaXYiOiJMWG1wR1l0dCt6aytUMG92K2ZqK1p3PT0ifQ%3D%3D%7Cbe7ab470cdfd0f4c1fba1aa9dcd9b775e93de86196eeb28bdce61e3992ac5612" "lun ago 27 19:01:50 2018 GMT" "/" "support.spotify.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
